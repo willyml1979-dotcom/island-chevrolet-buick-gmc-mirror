@@ -1,6 +1,6 @@
 {
   "dealership": "Island Chevrolet Buick Gmc",
-  "generated_at": "2026-10-26T03:52:07",
+  "generated_at": "2026-10-26T06:44:21",
   "vehicle_count": 209,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -764,7 +764,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 55242.0,
+      "price": 53742.0,
       "price_currency": "CAD"
     },
     {
@@ -775,7 +775,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 53488.0,
+      "price": 53414.0,
       "price_currency": "CAD"
     },
     {
@@ -786,7 +786,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 54632.0,
+      "price": 51488.0,
       "price_currency": "CAD"
     },
     {
@@ -797,7 +797,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 49878.0,
+      "price": 50388.0,
       "price_currency": "CAD"
     },
     {
@@ -852,7 +852,7 @@
       "make": "Buick",
       "model": "Envista",
       "condition": "new",
-      "price": 35108.0,
+      "price": 33608.0,
       "price_currency": "CAD"
     },
     {
@@ -863,7 +863,7 @@
       "make": "Buick",
       "model": "Envista",
       "condition": "new",
-      "price": 37211.0,
+      "price": 36053.0,
       "price_currency": "CAD"
     },
     {
@@ -889,25 +889,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Blazer EV AWD RS",
+      "name": "2026 Chevrolet Blazer EV AWD RS FWD",
       "vin": "3GNKDJRJXTS155092",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/a146c8230adc.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Blazer EV",
       "condition": "new",
-      "price": 68987.0,
+      "price": 71025.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Blazer EV AWD RS",
+      "name": "2026 Chevrolet Blazer EV AWD RS FWD",
       "vin": "3GNKDJRJ5TS139379",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/650f81696f8a.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Blazer EV",
       "condition": "new",
-      "price": 67874.0,
+      "price": 68533.0,
       "price_currency": "CAD"
     },
     {
@@ -966,14 +966,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox EV LT",
+      "name": "2026 Chevrolet Equinox EV LT FWD",
       "vin": "3GN7DLRP8TS186458",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/16ad2754717f.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 51323.0,
+      "price": 45859.0,
       "price_currency": "CAD"
     },
     {
@@ -1010,7 +1010,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox EV LT",
+      "name": "2026 Chevrolet Equinox EV LT AWD",
       "vin": "3GN7DLRR6TS193040",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/95485c65fc74.html",
       "year": 2026,
@@ -1021,7 +1021,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox EV LT",
+      "name": "2026 Chevrolet Equinox EV LT AWD",
       "vin": "3GN7DLRR5TS189934",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/37d25159f2c6.html",
       "year": 2026,
@@ -1032,7 +1032,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Equinox EV LT",
+      "name": "2026 Chevrolet Equinox EV LT FWD",
       "vin": "3GN7DLRPXTS191502",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/3cfb0f14f548.html",
       "year": 2026,
