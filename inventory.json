@@ -1,10 +1,21 @@
 {
   "dealership": "Island Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T05:42:05",
-  "vehicle_count": 206,
+  "generated_at": "2026-11-17T19:34:39",
+  "vehicle_count": 203,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2011 Chevrolet Colorado LT W/1SA",
+      "vin": "1GCESCF9XB8136907",
+      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/91b3b0362bd4.html",
+      "year": 2011,
+      "make": "Chevrolet",
+      "model": "Colorado",
+      "condition": "used",
+      "price": 14888.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "2011 Mercedes-Benz GLK-Class GLK 350 | Low KM | Sunroof | Leather | Heated Seats",
       "vin": "WDCGG8HB1BF577760",
@@ -97,7 +108,18 @@
       "make": "Ford",
       "model": "F-150",
       "condition": "used",
-      "price": 23888.0,
+      "price": 21888.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Kia Forte Sedan LX+",
+      "vin": "3KPFL4A75HE094304",
+      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/12a4da1e3151.html",
+      "year": 2017,
+      "make": "Kia",
+      "model": "Forte",
+      "condition": "used",
+      "price": 8662.0,
       "price_currency": "CAD"
     },
     {
@@ -152,7 +174,7 @@
       "make": "RAM",
       "model": "1500 Classic",
       "condition": "used",
-      "price": 23888.0,
+      "price": 22888.0,
       "price_currency": "CAD"
     },
     {
@@ -167,18 +189,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Chevrolet Silverado 3500 LT | Leather | Sunroof | Seat Storage | Spray-On Liner | Duramax Diesel",
-      "vin": "1GC4YTEY3LF245399",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/3a1dd6ee5f50.html",
-      "year": 2020,
-      "make": "Chevrolet",
-      "model": "Silverado 3500",
-      "condition": "used",
-      "price": 58888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Chevrolet Silverado 3500 LT",
+      "name": "2020 Chevrolet Silverado 3500 LT | Long Box | Duramax Diesel | Apple Carplay | Android Auto",
       "vin": "1GC4YTEY2LF231414",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/f3de813b9c6e.html",
       "year": 2020,
@@ -222,26 +233,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Silverado 1500 High Country",
-      "vin": "1GCUYHET1MZ321266",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/242e4cbd6264.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used"
-    },
-    {
-      "name": "2021 Chevrolet Silverado 3500 LTZ",
-      "vin": "1GC4YUEY9MF258519",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/766cdb0f57f3.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Silverado 3500",
-      "condition": "used",
-      "price": 51888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Ford F-150 Tremor | Front Bucket Seats /w Center Console | 360 Surround Vision",
       "vin": "1FTEW1E86MFC83189",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/cc53ee5fdd70.html",
@@ -253,6 +244,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2021 GMC Sierra 1500 | Low KM |  Canopy | Apple Carplay | Android Auto",
+      "vin": "1GTR9AEF1MZ193115",
+      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/a96148075869.html",
+      "year": 2021,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "used"
+    },
+    {
       "name": "2021 Hyundai Kona Preferred | Blind Spot Detection | All Wheel Drive | Apple Carplay | Android Auto",
       "vin": "KM8K2CAA5MU674313",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/563e7eb12805.html",
@@ -261,17 +261,6 @@
       "model": "Kona",
       "condition": "used",
       "price": 17888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Cherokee Trailhawk | Low KM | All Weather Floor Mats | Cargo Privacy Cover",
-      "vin": "1C4PJMBX5MD191314",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/4c6d910839c8.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Cherokee",
-      "condition": "used",
-      "price": 26888.0,
       "price_currency": "CAD"
     },
     {
@@ -385,6 +374,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Toyota Tundra SR | Canopy | Heated Seats | Heated Steering Wheel",
+      "vin": "5TFLA5DA9NX036911",
+      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/4e846c79f8bf.html",
+      "year": 2022,
+      "make": "Toyota",
+      "model": "Tundra",
+      "condition": "used",
+      "price": 48888.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 BrightDrop Zevo 600 BASE",
       "vin": "2G5ZJ3HG9P9100449",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/cf6bd9f2eef3.html",
@@ -415,17 +415,6 @@
       "model": "Bolt EUV",
       "condition": "used",
       "price": 26888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Chevrolet Trailblazer RS | Moonroof | All Wheel Drive | Leather",
-      "vin": "KL79MUSL0PB137199",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/685e05f55372.html",
-      "year": 2023,
-      "make": "Chevrolet",
-      "model": "Trailblazer",
-      "condition": "used",
-      "price": 23888.0,
       "price_currency": "CAD"
     },
     {
@@ -493,17 +482,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Buick Encore GX Sport Touring | All Wheel Drive | Sunroof | Surround Vision Camera",
-      "vin": "KL4AMESL5RB144040",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/0988e8c0b0f8.html",
-      "year": 2024,
-      "make": "Buick",
-      "model": "Encore GX",
-      "condition": "used",
-      "price": 26888.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Buick Envision Sport Touring | 360 Surround Vision | Moonroof | Leather | Low KM",
       "vin": "LRBFZPE40RD073572",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/89fe4ffdf749.html",
@@ -512,17 +490,6 @@
       "model": "Envision",
       "condition": "used",
       "price": 37888.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Chevrolet Blazer EV eAWD RS",
-      "vin": "3GNKDCRJ0RS191975",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/e864059acdf5.html",
-      "year": 2024,
-      "make": "Chevrolet",
-      "model": "Blazer EV",
-      "condition": "used",
-      "price": 42888.0,
       "price_currency": "CAD"
     },
     {
@@ -544,7 +511,7 @@
       "make": "Chevrolet",
       "model": "Malibu",
       "condition": "used",
-      "price": 23888.0,
+      "price": 21888.0,
       "price_currency": "CAD"
     },
     {
@@ -588,7 +555,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "used",
-      "price": 78888.0,
+      "price": 77888.0,
       "price_currency": "CAD"
     },
     {
@@ -599,7 +566,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "used",
-      "price": 97888.0,
+      "price": 96888.0,
       "price_currency": "CAD"
     },
     {
@@ -632,7 +599,7 @@
       "make": "BMW",
       "model": "X2",
       "condition": "used",
-      "price": 38888.0,
+      "price": 37888.0,
       "price_currency": "CAD"
     },
     {
@@ -654,7 +621,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "used",
-      "price": 32888.0,
+      "price": 31888.0,
       "price_currency": "CAD"
     },
     {
@@ -709,7 +676,7 @@
       "make": "Chrysler",
       "model": "Pacifica",
       "condition": "used",
-      "price": 37888.0,
+      "price": 35888.0,
       "price_currency": "CAD"
     },
     {
@@ -720,7 +687,7 @@
       "make": "Honda",
       "model": "HR-V",
       "condition": "used",
-      "price": 31888.0,
+      "price": 30888.0,
       "price_currency": "CAD"
     },
     {

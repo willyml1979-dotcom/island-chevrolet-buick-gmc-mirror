@@ -1,6 +1,6 @@
 # Island Chevrolet Buick GMC
 
- dealership in Duncan. AI-readable inventory mirror, about 206 vehicles.
+ dealership in Duncan. AI-readable inventory mirror, about 203 vehicles.
 
 - Official website: https://www.islandgm.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/used/
