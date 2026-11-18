@@ -1,6 +1,6 @@
 {
   "dealership": "Island Chevrolet Buick Gmc",
-  "generated_at": "2026-11-18T05:12:12",
+  "generated_at": "2026-11-18T08:26:28",
   "vehicle_count": 199,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -1164,7 +1164,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Chevrolet Silverado EV Max Range Work Truck FWD",
+      "name": "2026 Chevrolet Silverado EV Max Range Work Truck 4WD",
       "vin": "1GC10WEL7TU420099",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/23220f82337b.html",
       "year": 2026,
@@ -1732,7 +1732,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 131125.0,
+      "price": 128625.0,
       "price_currency": "CAD"
     },
     {
@@ -1743,7 +1743,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 128224.0,
+      "price": 125724.0,
       "price_currency": "CAD"
     },
     {
@@ -1930,7 +1930,7 @@
       "make": "GMC",
       "model": "Yukon",
       "condition": "new",
-      "price": 147745.0,
+      "price": 141545.0,
       "price_currency": "CAD"
     },
     {
@@ -1952,7 +1952,7 @@
       "make": "Chevrolet",
       "model": "Bolt",
       "condition": "new",
-      "price": 40517.0,
+      "price": 40267.0,
       "price_currency": "CAD"
     },
     {
@@ -1985,7 +1985,7 @@
       "make": "Chevrolet",
       "model": "Bolt",
       "condition": "new",
-      "price": 40956.0,
+      "price": 40706.0,
       "price_currency": "CAD"
     },
     {
@@ -2051,7 +2051,7 @@
       "make": "Chevrolet",
       "model": "Corvette",
       "condition": "new",
-      "price": 179200.0,
+      "price": 172200.0,
       "price_currency": "CAD"
     },
     {
@@ -2095,7 +2095,7 @@
       "make": "Chevrolet",
       "model": "Equinox EV",
       "condition": "new",
-      "price": 45086.0,
+      "price": 45626.0,
       "price_currency": "CAD"
     },
     {
