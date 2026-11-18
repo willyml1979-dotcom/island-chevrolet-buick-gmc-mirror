@@ -1,7 +1,7 @@
 {
   "dealership": "Island Chevrolet Buick Gmc",
-  "generated_at": "2026-11-17T19:34:39",
-  "vehicle_count": 203,
+  "generated_at": "2026-11-17T23:05:21",
+  "vehicle_count": 199,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -769,17 +769,6 @@
     },
     {
       "name": "2026 Buick Envision Sport Touring",
-      "vin": "LRBFZPR4XTD048082",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/1aad5fe97cd4.html",
-      "year": 2026,
-      "make": "Buick",
-      "model": "Envision",
-      "condition": "new",
-      "price": 51488.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Buick Envision Sport Touring",
       "vin": "LRBFZPR46TD009313",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/78ee99ff595c.html",
       "year": 2026,
@@ -907,7 +896,7 @@
       "make": "Chevrolet",
       "model": "Colorado",
       "condition": "new",
-      "price": 53895.0,
+      "price": 55637.0,
       "price_currency": "CAD"
     },
     {
@@ -1007,17 +996,6 @@
       "model": "Silverado 1500",
       "condition": "new",
       "price": 82294.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 Custom Trail Boss",
-      "vin": "3GCPKCEK1TG473099",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/5af4d95567d2.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "new",
-      "price": 64699.0,
       "price_currency": "CAD"
     },
     {
@@ -1336,7 +1314,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 67155.0,
+      "price": 63855.0,
       "price_currency": "CAD"
     },
     {
@@ -1347,7 +1325,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 64211.0,
+      "price": 61711.0,
       "price_currency": "CAD"
     },
     {
@@ -1358,7 +1336,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 63716.0,
+      "price": 61216.0,
       "price_currency": "CAD"
     },
     {
@@ -1369,7 +1347,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 63761.0,
+      "price": 61261.0,
       "price_currency": "CAD"
     },
     {
@@ -1391,7 +1369,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 70875.0,
+      "price": 68375.0,
       "price_currency": "CAD"
     },
     {
@@ -1439,6 +1417,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 GMC Sierra 1500 Regular Cab Pro",
+      "vin": "3GTNUAEK1TG258523",
+      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/5739597f0162.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 1500",
+      "condition": "new",
+      "price": 57936.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 GMC Sierra 1500 Pro",
       "vin": "1GTRUAED9TZ257672",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/05fe1b73fd18.html",
@@ -1480,28 +1469,6 @@
       "model": "Sierra 1500",
       "condition": "new",
       "price": 72044.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 1500 Elevation",
-      "vin": "1GTUUCED2TZ461543",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/4bb7fde3a24e.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 69535.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 1500 Elevation",
-      "vin": "1GTUUCED2TZ463972",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/9d7487e58cf4.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "new",
-      "price": 71355.0,
       "price_currency": "CAD"
     },
     {
@@ -1677,7 +1644,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 121502.0,
+      "price": 119002.0,
       "price_currency": "CAD"
     },
     {
@@ -1688,7 +1655,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 120655.0,
+      "price": 118155.0,
       "price_currency": "CAD"
     },
     {
@@ -1699,7 +1666,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 122697.0,
+      "price": 120197.0,
       "price_currency": "CAD"
     },
     {
@@ -1710,7 +1677,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": -7000.0,
+      "price": -9500.0,
       "price_currency": "CAD"
     },
     {
@@ -1743,7 +1710,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 114479.0,
+      "price": 111979.0,
       "price_currency": "CAD"
     },
     {
@@ -1754,7 +1721,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 89631.0,
+      "price": 87131.0,
       "price_currency": "CAD"
     },
     {
@@ -1787,7 +1754,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 113475.0,
+      "price": 113287.0,
       "price_currency": "CAD"
     },
     {
@@ -1920,17 +1887,6 @@
       "model": "Sierra 3500HD",
       "condition": "new",
       "price": 110470.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 GMC Sierra 3500HD Denali",
-      "vin": "1GT4UWEY3TF425043",
-      "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/78c0e80ab8f7.html",
-      "year": 2026,
-      "make": "GMC",
-      "model": "Sierra 3500HD",
-      "condition": "new",
-      "price": 112455.0,
       "price_currency": "CAD"
     },
     {
@@ -2187,13 +2143,15 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Chevrolet Equinox",
+      "name": "2027 Chevrolet Equinox AWD RS",
       "vin": "3GNAXTEG0VL235684",
       "url": "https://willyml1979-dotcom.github.io/island-chevrolet-buick-gmc-mirror/new/52bcd02cb807.html",
       "year": 2027,
       "make": "Chevrolet",
       "model": "Equinox",
-      "condition": "new"
+      "condition": "new",
+      "price": 52185.0,
+      "price_currency": "CAD"
     },
     {
       "name": "2027 Chevrolet Equinox AWD LT",
