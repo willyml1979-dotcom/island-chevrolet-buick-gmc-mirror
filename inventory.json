@@ -1,6 +1,6 @@
 {
   "dealership": "Island Chevrolet Buick Gmc",
-  "generated_at": "2026-11-18T13:42:16",
+  "generated_at": "2026-11-18T17:10:43",
   "vehicle_count": 199,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -711,7 +711,7 @@
       "make": "Buick",
       "model": "Enclave",
       "condition": "new",
-      "price": 71436.0,
+      "price": 69436.0,
       "price_currency": "CAD"
     },
     {
@@ -722,7 +722,7 @@
       "make": "Buick",
       "model": "Encore GX",
       "condition": "new",
-      "price": 44034.0,
+      "price": 42534.0,
       "price_currency": "CAD"
     },
     {
@@ -733,7 +733,7 @@
       "make": "Buick",
       "model": "Encore GX",
       "condition": "new",
-      "price": 47284.0,
+      "price": 45784.0,
       "price_currency": "CAD"
     },
     {
@@ -788,7 +788,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 49220.0,
+      "price": 48720.0,
       "price_currency": "CAD"
     },
     {
@@ -799,7 +799,7 @@
       "make": "Buick",
       "model": "Envision",
       "condition": "new",
-      "price": 55525.0,
+      "price": 55025.0,
       "price_currency": "CAD"
     },
     {
@@ -1283,7 +1283,7 @@
       "make": "Chevrolet",
       "model": "Trax",
       "condition": "new",
-      "price": 33889.0,
+      "price": 32889.0,
       "price_currency": "CAD"
     },
     {
@@ -1360,7 +1360,7 @@
       "make": "GMC",
       "model": "Acadia",
       "condition": "new",
-      "price": 59676.0,
+      "price": 57176.0,
       "price_currency": "CAD"
     },
     {
@@ -1404,7 +1404,7 @@
       "make": "GMC",
       "model": "Hummer EV",
       "condition": "new",
-      "price": 135989.0,
+      "price": 129789.0,
       "price_currency": "CAD"
     },
     {
@@ -1635,7 +1635,7 @@
       "make": "GMC",
       "model": "Sierra 3500HD",
       "condition": "new",
-      "price": 125119.0,
+      "price": 115991.0,
       "price_currency": "CAD"
     },
     {
@@ -2141,7 +2141,7 @@
       "make": "Chevrolet",
       "model": "Equinox",
       "condition": "new",
-      "price": 51079.0,
+      "price": 50079.0,
       "price_currency": "CAD"
     },
     {
